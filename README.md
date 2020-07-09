@@ -1,4 +1,4 @@
-### Hi there 👋
+### Namaste/Hi fellow human!!
 
 - I like to commit every once in a while.
 - I like to have creative insights towards stuff.
