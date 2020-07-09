@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- I like to commit every once in a while.
+- I like to have creative insights towards stuff.
+- I am working as a Software engineer@[Altran](https://www.altran.com/de/en/).
+- My best work yet is [Graphisual](https://graphisual.netlify.com).
+- My [LinkedIn](www.linkedin.com/in/lakshya-thakur) and [Stackoverflow](https://stackoverflow.com/users/8130690/lakshya-thakur) profile.
+- I have a knack for creating content - photography,music or videos.
+- My [Instagram](https://www.instagram.com/lakbychance/), [Youtube](https://www.youtube.com/user/Pstjup) and [Soundcloud](https://soundcloud.com/lakshya-thakur) profiles.
 <!--
 **lapstjup/lapstjup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
