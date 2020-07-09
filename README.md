@@ -1,7 +1,6 @@
 ### Namaste/Hi fellow human!!
 
 - I like to commit every once in a while.
-- I like to have creative insights towards stuff.
 - I am working as a Software engineer@[Altran](https://www.altran.com/de/en/).
 - My best work yet is [Graphisual](https://graphisual.netlify.com).
 - My [LinkedIn](www.linkedin.com/in/lakshya-thakur) and [Stackoverflow](https://stackoverflow.com/users/8130690/lakshya-thakur) profile.
