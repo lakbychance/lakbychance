@@ -1,5 +1,10 @@
 ### Namaste/Hi fellow human!!
 
+![Cover Pic](Creativity.png)
+
+
+
+
 - I like to commit every once in a while.
 - I am working as a Software engineer@[Altran](https://www.altran.com/de/en/).
 - My best work yet is [Graphisual](https://graphisual.netlify.com).
