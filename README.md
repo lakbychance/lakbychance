@@ -1,6 +1,6 @@
 ### Namaste/Hi fellow human!!
 
-![Cover Pic](Creativity.png)
+![Cover Pic](https://github.com/lapstjup/lapstjup/blob/master/Creativity.png)
 
 
 
