@@ -7,7 +7,6 @@
 
 - I like to commit every once in a while.
 - I am working as a Software engineer@[Altran](https://www.altran.com/de/en/).
-- My best work yet is [Graphisual](https://graphisual.netlify.com).
 - I am active on [LinkedIn](www.linkedin.com/in/lakshya-thakur) and [Stackoverflow](https://stackoverflow.com/users/8130690/lakshya-thakur).
 - I have a knack for creating content - photography,music and videos.
 - I am active on [Instagram](https://www.instagram.com/lakbychance/), [Twitter](https://twitter.com/lakbychance), [Youtube](https://www.youtube.com/user/Pstjup) and [Soundcloud](https://soundcloud.com/lakshya-thakur).
