@@ -8,6 +8,7 @@
 - I like to commit every once in a while.
 - I am working as a Software engineer@[Altran](https://www.altran.com/de/en/).
 - I am active on [LinkedIn](www.linkedin.com/in/lakshya-thakur) and [Stackoverflow](https://stackoverflow.com/users/8130690/lakshya-thakur).
+- I have my blogs at [hashnode](https://blog.lakbychance.com), [dev.to](https://dev.to/lapstjup) and [medium](https://lakshyathakur.medium.com/?source=your_stories_page-------------------------------------)
 - I have a knack for creating content - photography,music and videos.
 - I am active on [Instagram](https://www.instagram.com/lakbychance/), [Twitter](https://twitter.com/lakbychance), [Youtube](https://www.youtube.com/user/Pstjup) and [Soundcloud](https://soundcloud.com/lakshya-thakur).
 <!--
